@@ -21,7 +21,7 @@
         <li class="nav-item">
           <a class="nav-link " href="view_booking.php">Bookings</a>
         </li>
-
+ 
       </ul>
       
       
