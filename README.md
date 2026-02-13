@@ -8,7 +8,7 @@
 ### Login & Signup
 
  <img src="https://github.com/RawanX99/Roomly/blob/main/ReadmeImages/roomly1.png">
- <img src="[https://github.com/RawanX99/Roomly/blob/main/ReadmeImages/roomly6.png">
+ <img src="https://github.com/RawanX99/Roomly/blob/main/ReadmeImages/roomly6.png">
 
 ### Guest Dashbord
 
