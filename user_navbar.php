@@ -21,9 +21,6 @@
         <li class="nav-item">
           <a class="nav-link " href="view_booking.php">Bookings</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link " href="chat.php">ChatGPT</a>
-        </li>
 
       </ul>
       
